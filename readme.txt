@@ -12,6 +12,22 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A started WordPress Block Theme for building custom themes.
 
+The main purpose of this project is to have a WordPress block theme as a starting point to create a custom theme.
+
+Themeplate has been created along some basic lines:
+
+🎨 A minimal color palette.
+
+📐 A scale of font sizes and spacing.
+
+🧱 The WordPress blocks have their default styles.
+
+🗂️ A minimum hierarchy of files has been created for the templates.
+
+😎 Creation of two CSS style files: one for the main styles of the WordPress theme. The other, to add styles once the theme is deployed and the client wants to make their own customizations.
+
+🥸 Creation of a scripts.js file, in case there is a need to add Javascript code.
+
 
 == Changelog ==
 
