@@ -11,37 +11,37 @@
       "defaultDuotone": false,
       "palette": [
         {
-          "color": "#EAEAEA",
+          "color": "oklch(94% 0 0)",
           "name": "Background Primary",
           "slug": "background-primary"
         },
         {
-          "color": "#FF6F61",
+          "color": "oklch(71% 0.18 28)",
           "name": "Accent Primary",
           "slug": "accent-primary"
         },
         {
-          "color": "#1B1B1B",
+          "color": "oklch(22% 0 0)",
           "name": "Text Primary",
           "slug": "text-primary"
         },
         {
-          "color": "#D4D4D4",
+          "color": "oklch(79% 0 0)",
           "name": "Background Secondary",
           "slug": "background-secondary"
         },
         {
-          "color": "#4D4D4D",
+          "color": "oklch(37% 0 0)",
           "name": "Text Secondary",
           "slug": "text-secondary"
         },
         {
-          "color": "#E65A4F",
+          "color": "oklch(61% 0.18 28)",
           "name": "Accent Primary Dark",
           "slug": "accent-primary-dark"
         },
         {
-          "color": "#FFA08D",
+          "color": "oklch(84% 0.18 28)",
           "name": "Accent Primary Light",
           "slug": "accent-primary-light"
         }
