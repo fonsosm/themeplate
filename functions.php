@@ -17,7 +17,7 @@
 function themeplate_enqueue_assets()
 {
     // Register and enqueue the style.css file from the assets/build/css folder
-    wp_enqueue_style('themeplate-main-style', get_template_directory_uri() . '/assets/build/css/style.css');
+    wp_enqueue_style('themeplate-main-style', get_template_directory_uri() . '/assets/build/css/base.css');
 
     // Register and enqueue the style.css file from the theme root, after the previous one
     wp_enqueue_style('themeplate-style', get_stylesheet_uri(), array('themeplate-main-style'));
