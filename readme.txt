@@ -50,3 +50,12 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
+
+== Resources ==
+
+This WordPress Theme bundles the following third-party resources:
+
+Inter (font)
+Copyright 2020 The Inter Project Authors
+License: SIL Open Font License, 1.1, http://scripts.sil.org/OFL
+Source: (https://github.com/rsms/inter)
