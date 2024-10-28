@@ -35,6 +35,11 @@ Themeplate has been created along some basic lines:
 * Initial release
 
 
+== theme.json ==
+
+*spacingSizes
+Spacing sizes are calculated using clamp() where the minimum value is half of the maximum. The viewport range for responsive scaling is set between 600px (min) and 1440px (max).
+
 == Copyright ==
 
 Themeplate WordPress Theme, (C) 2024 Alfonso Serrano
